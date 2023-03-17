@@ -4,33 +4,37 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <!-- TemplateBeginEditable name="doctitle" -->
     <title>Transportion</title>
+    <!-- TemplateEndEditable -->
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- <link rel="manifest" href="site.webmanifest"> -->
-    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="../img/favicon.png">
     <!-- Place favicon.ico in the root directory -->
 
     <!-- CSS here -->
-    <link rel="stylesheet" href="css/font.css">
-    <link rel="stylesheet" href="css/main.css">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <link rel="stylesheet" href="css/magnific-popup.css">
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-    <link rel="stylesheet" href="css/themify-icons.css">
-    <link rel="stylesheet" href="css/nice-select.css">
-    <link rel="stylesheet" href="css/flaticon.css">
-    <link rel="stylesheet" href="css/gijgo.css">
-    <link rel="stylesheet" href="css/animate.css">
-    <link rel="stylesheet" href="css/slick.css">
-    <link rel="stylesheet" href="css/slicknav.css">
+    <link rel="stylesheet" href="../css/font.css">
+    <link rel="stylesheet" href="../css/main.css">
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/owl.carousel.min.css">
+    <link rel="stylesheet" href="../css/magnific-popup.css">
+    <link rel="stylesheet" href="../css/font-awesome.min.css">
+    <link rel="stylesheet" href="../css/themify-icons.css">
+    <link rel="stylesheet" href="../css/nice-select.css">
+    <link rel="stylesheet" href="../css/flaticon.css">
+    <link rel="stylesheet" href="../css/gijgo.css">
+    <link rel="stylesheet" href="../css/animate.css">
+    <link rel="stylesheet" href="../css/slick.css">
+    <link rel="stylesheet" href="../css/slicknav.css">
     <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css">
     <link rel="stylesheet" href="https://i.icomoon.io/public/temp/b884fd2c32/UntitledProject/style.css">
 
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="../css/style.css">
     <!-- <link rel="stylesheet" href="css/responsive.css"> -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
 </head>
 
 <body>
@@ -52,8 +56,8 @@
                     <div class="row align-items-center">
                         <div class="col-xl-4 col-lg-4">
                             <div class="logo">
-                                <a href="index.html">
-                                    <img src="img/logo.png" alt="" width="128">
+                                <a href="../index.html">
+                                    <img src="../img/logo.png" alt="" width="128">
                                 </a>
                             </div>
                         </div>
@@ -62,7 +66,7 @@
                                 <div class="short_contact_list">
                                     <ul>
                                         <li><a href="mailto:dispatch1@stpwinc.com"> <i class="fa fa-envelope"></i>dispatch1@stpwinc.com</a></li>
-                                        <li><a href="+13235374922"> <i class="fa fa-phone"></i> +1 (323) 537-4922</a></li>
+                                        <li><a href="../+13235374922"> <i class="fa fa-phone"></i> +1 (323) 537-4922</a></li>
                                     </ul>
                                 </div>
 
@@ -80,8 +84,8 @@
                         <div class="row align-items-center">
                             <div class="col-12 d-block d-lg-none">
                                 <div class="logo">
-                                    <a href="index.html">
-                                        <img src="img/logo.png" alt="">
+                                    <a href="../index.html">
+                                        <img src="../img/logo.png" alt="">
                                     </a>
                                 </div>
                             </div>
@@ -89,11 +93,11 @@
                                 <div class="main-menu  d-none d-lg-block">
                                     <nav>
                                         <ul id="navigation">
-                                            <li><a  href="index.html">home</a></li>
-                                            <li><a  href="service.html">Services</a></li>
-                                            <li><a href="About.html">about</a></li>
-                                            <li><a href="booking.html">Online Booking</a></li>
-                                            <li><a href="contact.html">Contact</a></li>
+                                            <li><a  href="../index.html">home</a></li>
+                                            <li><a  href="../service.html">Services</a></li>
+                                            <li><a href="../About.html">about</a></li>
+                                            <li><a href="../booking.html">Online Booking</a></li>
+                                            <li><a href="../contact.html">Contact</a></li>
                                         </ul>
                                     </nav>
                                 </div>
@@ -145,7 +149,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="single_transport">
                         <div class="icon">
-                            <img src="img/svg_icon/airplane.png" alt="">
+                            <img src="../img/svg_icon/airplane.png" alt="">
                         </div>
                         <h3>Transportation</h3>
                         <p>Esteem spirit temper too say adieus who direct esteem. It look estee luckily or picture
@@ -155,7 +159,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="single_transport">
                         <div class="icon">
-                            <img src="img/svg_icon/live.png" alt="">
+                            <img src="../img/svg_icon/live.png" alt="">
                         </div>
                         <h3>Live Monitoring</h3>
                         <p>Esteem spirit temper too say adieus who direct esteem. It look estee luckily or picture
@@ -165,7 +169,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="single_transport">
                         <div class="icon">
-                            <img src="img/svg_icon/world.png" alt="">
+                            <img src="../img/svg_icon/world.png" alt="">
                         </div>
                         <h3>Worldwide Service</h3>
                         <p>Esteem spirit temper too say adieus who direct esteem. It look estee luckily or picture
@@ -192,37 +196,37 @@
                     <div class="service_active owl-carousel">
                         <div class="single_service">
                             <div class="thumb">
-                                <img src="img/thumb-49278037.jpg" alt="">
+                                <img src="../img/thumb-49278037.jpg" alt="">
                             </div>
                             <div class="service_info">
-                                <h3><a href="service_details.html">Full Intermodal</a></h3>
+                                <h3><a href="../service_details.html">Full Intermodal</a></h3>
                                 <p></p>
                             </div>
                         </div>
                         <div class="single_service">
                             <div class="thumb">
-                                <img src="img/thumb-363634991.jpg" alt="">
+                                <img src="../img/thumb-363634991.jpg" alt="">
                             </div>
                             <div class="service_info">
-                                <h3><a href="service_details.html">Hazmat</a></h3>
+                                <h3><a href="../service_details.html">Hazmat</a></h3>
                                 <p></p>
                             </div>
                         </div>
                         <div class="single_service">
                             <div class="thumb">
-                                <img src="img/47486787.jpg" alt="">
+                                <img src="../img/47486787.jpg" alt="">
                             </div>
                             <div class="service_info">
-                                <h3><a href="service_details.html">Overweight</a></h3>
+                                <h3><a href="../service_details.html">Overweight</a></h3>
                                 <p></p>
                             </div>
                         </div>
                         <div class="single_service">
                             <div class="thumb">
-                                <img src="img/13691351.jpg" alt="">
+                                <img src="../img/13691351.jpg" alt="">
                             </div>
                             <div class="service_info">
-                                <h3><a href="service_details.html">Reefer</a></h3>
+                                <h3><a href="../service_details.html">Reefer</a></h3>
                                 <p></p>
                             </div>
                         </div>
@@ -259,7 +263,7 @@
                 <div class="row  align-items-center">
                     <div class="col-xl-5 col-lg-5 col-md-6">
                         <div class="about_image">
-                            <img src="img/about/about.png" alt="">
+                            <img src="../img/about/about.png" alt="">
                         </div>
                     </div>
                     <div class="col-xl-6 col-lg-6 col-md-6">
@@ -274,7 +278,7 @@
                             </ul>
 
                             <div class="about_btn">
-                                <a class="boxed-btn3-line" href="about.html">About Us</a>
+                                <a class="boxed-btn3-line" href="../about.html">About Us</a>
                             </div>
                         </div>
                     </div>
@@ -329,13 +333,13 @@
                         <div class="single_carousel">
                             <div class="single_testmonial text-center">
                                 <div class="quote">
-                                    <img src="img/svg_icon/quote.svg" alt="">
+                                    <img src="../img/svg_icon/quote.svg" alt="">
                                 </div>
                                 <p>Maria Fernandez is good dispatcher<br/>
 									love to work again</p>
                                 <div class="testmonial_author">
                                     <div class="thumb">
-                                        <img src="img/case/Sgoogle.png" alt="">
+                                        <img src="../img/case/Sgoogle.png" alt="">
                                     </div>
                                     <h3>Sam Harper</h3>
                                     <span>Grace Logistics Inc</span>
@@ -345,12 +349,12 @@
                         <div class="single_carousel">
                             <div class="single_testmonial text-center">
                                 <div class="quote">
-                                    <img src="img/svg_icon/quote.svg" alt="">
+                                    <img src="../img/svg_icon/quote.svg" alt="">
                                 </div>
                                 <p>Nice.</p>
                                 <div class="testmonial_author">
                                     <div class="thumb">
-                                        <img src="img/case/argoole.png" alt="">
+                                        <img src="../img/case/argoole.png" alt="">
                                     </div>
                                     <h3>Argenis Cruz</h3>
                                     <span></span>
@@ -360,7 +364,7 @@
                         <div class="single_carousel">
                             <div class="single_testmonial text-center">
                                 <div class="quote">
-                                    <img src="img/svg_icon/quote.svg" alt="">
+                                    <img src="../img/svg_icon/quote.svg" alt="">
                                 </div>
                                 <p></p>
                                 <div class="testmonial_author">
@@ -387,8 +391,8 @@
                 <div class="col-xl-6 col-lg-6 col-md-6">
                     <div class="location_left">
                         <div class="logo">
-                            <a href="index.html">
-                                <img src="img/logo.png" alt="" width="200">
+                            <a href="../index.html">
+                                <img src="../img/logo.png" alt="" width="200">
                             </a>
                         </div>
                         <ul>
@@ -439,11 +443,11 @@
                                 Services
                             </h3>
                             <ul>
-                            <li><a href=about-1.html class=sf-with-ul-pre>About Us</a></li>
-							<li><a href=our-services.html class=sf-with-ul-pre>Services</a></li>
-							<li><a href=get-a-quote.html class=sf-with-ul-pre>Free Estimate</a></li>
-							<li><a href=booking.html class=sf-with-ul-pre>Online Booking</a></li>
-							<li><a href=contact.html class=sf-with-ul-pre>Contact Us</a></li>
+                            <li><a href=../about-1.html class=sf-with-ul-pre>About Us</a></li>
+							<li><a href=../our-services.html class=sf-with-ul-pre>Services</a></li>
+							<li><a href=../get-a-quote.html class=sf-with-ul-pre>Free Estimate</a></li>
+							<li><a href=../booking.html class=sf-with-ul-pre>Online Booking</a></li>
+							<li><a href=../contact.html class=sf-with-ul-pre>Contact Us</a></li>
                             </ul>
 
                         </div>
@@ -495,37 +499,37 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
   </div>
 
     <!-- JS here -->
-    <script src="js/vendor/modernizr-3.5.0.min.js"></script>
-    <script src="js/vendor/jquery-1.12.4.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/isotope.pkgd.min.js"></script>
-    <script src="js/ajax-form.js"></script>
-    <script src="js/waypoints.min.js"></script>
-    <script src="js/jquery.counterup.min.js"></script>
-    <script src="js/imagesloaded.pkgd.min.js"></script>
-    <script src="js/scrollIt.js"></script>
-    <script src="js/jquery.scrollUp.min.js"></script>
-    <script src="js/wow.min.js"></script>
-    <script src="js/nice-select.min.js"></script>
-    <script src="js/jquery.slicknav.min.js"></script>
-    <script src="js/jquery.magnific-popup.min.js"></script>
-    <script src="js/plugins.js"></script>
+    <script src="../js/vendor/modernizr-3.5.0.min.js"></script>
+    <script src="../js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="../js/popper.min.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="../js/owl.carousel.min.js"></script>
+    <script src="../js/isotope.pkgd.min.js"></script>
+    <script src="../js/ajax-form.js"></script>
+    <script src="../js/waypoints.min.js"></script>
+    <script src="../js/jquery.counterup.min.js"></script>
+    <script src="../js/imagesloaded.pkgd.min.js"></script>
+    <script src="../js/scrollIt.js"></script>
+    <script src="../js/jquery.scrollUp.min.js"></script>
+    <script src="../js/wow.min.js"></script>
+    <script src="../js/nice-select.min.js"></script>
+    <script src="../js/jquery.slicknav.min.js"></script>
+    <script src="../js/jquery.magnific-popup.min.js"></script>
+    <script src="../js/plugins.js"></script>
     <!-- <script src="js/gijgo.min.js"></script> -->
-    <script src="js/slick.min.js"></script>
+    <script src="../js/slick.min.js"></script>
 
 
 
     <!--contact js-->
-    <script src="js/contact.js"></script>
-    <script src="js/jquery.ajaxchimp.min.js"></script>
-    <script src="js/jquery.form.js"></script>
-    <script src="js/jquery.validate.min.js"></script>
-    <script src="js/mail-script.js"></script>
+    <script src="../js/contact.js"></script>
+    <script src="../js/jquery.ajaxchimp.min.js"></script>
+    <script src="../js/jquery.form.js"></script>
+    <script src="../js/jquery.validate.min.js"></script>
+    <script src="../js/mail-script.js"></script>
 
 
-    <script src="js/main.js"></script>
+    <script src="../js/main.js"></script>
 
 
 
